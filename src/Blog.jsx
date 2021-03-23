@@ -34,7 +34,7 @@ const Blog = ()=>{
             
             <div>
                 <Article 
-                title={"React"}
+                title={"React test"}
                 // count={this.state.count}
                 />
                 <BarFoo.Foo/>
